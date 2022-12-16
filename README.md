@@ -3,7 +3,7 @@ Exercícios de Python🐍 do Curso Profissionalizante de Programador Web do Sena
 
 Nos exercícios são englobados os assuntos:
 
-✅Manipulação de Strings
+✅Strings e Tuplas
 
 ✅Estruturas Condicionais
 
